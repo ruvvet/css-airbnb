@@ -1,8 +1,8 @@
 h1 {
-  color: #404040;
+  color: #53575A;
 }
 body {
-  background-color: #eef1f3;
+  background-color: #EDEFEC;
   text-align: center;
   width: 50%;
   margin: auto;
@@ -42,6 +42,7 @@ img {
   grid-gap: 1.5rem;
   justify-items: center;
   align-items: center;
+  padding: 10px 0 0 0;
 }
 .container{
   position: relative;
